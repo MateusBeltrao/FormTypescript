@@ -44,7 +44,7 @@ export const FormStep2 = () => {
             <C.Container>
                 <p>Passo 2/3</p>
                 <h1>{state.name}, o que melhor descreve você?</h1>
-                <p>Escolha a opção que melhor condiz com seu estado atual profissinal.</p>
+                <p>Escolha a opção que melhor condiz com seu estado atual profissional.</p>
                 <hr />
                 <SelectOption
                     title="Sou iniciante"

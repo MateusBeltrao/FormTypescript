@@ -28,7 +28,7 @@ export const Theme = ({children}: Props) => {
                         />
 
                         <SiderbarItem
-                            title='Profissinal'
+                            title='Profissional'
                             descripton="se identifique"
                             icon="book"
                             path="/step2"
